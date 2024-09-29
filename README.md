@@ -1,1 +1,6 @@
-# zomato_clone
+Zomato Clone
+
+
+Technologies used :-
+-HTML
+-CSS
